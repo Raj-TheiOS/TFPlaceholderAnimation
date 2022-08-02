@@ -1,2 +1,2 @@
 # TFPlaceholderAnimation
- Textfield placeholder animation whille enterinng texts into the Textfields without using pods.
+ Textfield placeholder animation while entering texts into the Textfields without using pods.
